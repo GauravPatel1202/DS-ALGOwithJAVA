@@ -134,8 +134,8 @@ Topological Sorting
 Bipartite Graphs
 
 # Contact 
-patelgaurav1202@gmail.com
-8553476211
+# patelgaurav1202@gmail.com
+# 8553476211
 
 # BTM layout Bangalore 
 
