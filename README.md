@@ -136,7 +136,7 @@ Bipartite Graphs
 # Contact 
 # patelgaurav1202@gmail.com
 # 8553476211
-
+https://www.linkedin.com/in/gaurav-patel-9662753b/
 # BTM layout Bangalore 
 
 
